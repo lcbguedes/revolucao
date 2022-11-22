@@ -19,7 +19,7 @@
 
 ## revolucao
 
-Busca de Imagens T
+Busca de Imagens
 
 ### Starting the generated app
 
